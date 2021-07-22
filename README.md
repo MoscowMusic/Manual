@@ -18,3 +18,5 @@
 
 # ![image](https://i.imgur.com/iJX01fJ.png) Support 
 — You can get any support via mail: support@moscowmusic.ml or find documentation on our website.
+
+![image](https://moscowmusic.ml/images/bot.jpg)
