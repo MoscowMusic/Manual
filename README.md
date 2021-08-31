@@ -11,8 +11,9 @@
 — Node.js and some modules. Here are the most important:</br>
 
 • @discord.js</br>
-• @ytdl-core</br>
-• @discord-ytdl-core</br>
+• @discord.js/voice</br>
+• @youtube-dl</br>
+• @ffmpeg</br>
 
 • We also use YouTube API V3 and Spotify API.
 
