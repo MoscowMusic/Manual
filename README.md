@@ -15,7 +15,7 @@
 • @youtube-dl</br>
 • @ffmpeg</br>
 
-• We also use YouTube API V3 and Spotify API.
+• We also use Spotify API.
 
 # ![image](https://i.imgur.com/iJX01fJ.png) Support 
 — You can get any support via mail: support@moscowmusic.ml or find documentation on our website.
