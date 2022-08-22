@@ -13,7 +13,7 @@
 • @erela.js</br>
 • @Lavalink</br>
 
-• We also use Spotify API.
+• We also use Spotify & Yandex Music API.
 
 # ![image](https://i.imgur.com/iJX01fJ.png) Support 
 — You can get any support via mail: support@moscowmusic.su or find documentation on our website.
