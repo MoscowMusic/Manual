@@ -10,7 +10,7 @@
 — Node.js and some modules. Here are the most important:</br>
 
 • @discord.js</br>
-• @erela.js</br>
+• @Shokaku</br>
 • @Lavalink</br>
 
 • We also use Spotify & Yandex Music API.
